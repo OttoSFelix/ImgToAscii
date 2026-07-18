@@ -48,4 +48,4 @@ python3 img_to_ascii.py <path_to_image> [options]
 
   !['pengling'](/pengling2.png)
 
-  !['original'](/original_pengling.png)
+  !['ascii'](/ascii_pengling.png)
